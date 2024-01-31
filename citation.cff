@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this collection, please cite it as below."
+authors:
+- family-names: "Sinha"
+  given-names: "Yamini"
+  orcid: "https://orcid.org/0000-0002-6312-9827"
+- family-names: "Hintz"
+  given-names: "Jan"
+  orcid: "https://orcid.org/0000-0003-2910-8202"
+- family-names: "Siegert"
+  given-names: "Ingo"
+  orcid: "https://orcid.org/0000-0001-7447-7141"
+title: "EVALUATION-OF-AUDIO-DEEPFAKES- Full List of Identified Studies"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-01-30
+url: "https://github.com/Mobile-Dialog-Systeme/EVALUATION-OF-AUDIO-DEEPFAKES-"
